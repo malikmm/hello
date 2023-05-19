@@ -3,6 +3,7 @@
 	<name>GitTestWorkFlow</name>
 	<comment></comment>
 	<projects>
+		<project>hello</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
